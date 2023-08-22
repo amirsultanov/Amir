@@ -3,7 +3,6 @@
 #include <iostream>
 #include <climits>
 #include <cstdlib>
-#include <unistd.h>
 #include <fstream>
 
 using namespace std;
